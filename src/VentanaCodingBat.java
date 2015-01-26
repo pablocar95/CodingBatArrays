@@ -1,5 +1,5 @@
 //
- // hola
+ // hola gente
 //HECHO POR PABLOCAR YEAH!!!
 
 public class VentanaCodingBat extends javax.swing.JFrame {
@@ -60,7 +60,7 @@ public class VentanaCodingBat extends javax.swing.JFrame {
 
     private void jButton1MousePressed(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jButton1MousePressed
      public int[] middleWay(int[] a, int[] b)  {
-               int[] c = { a[1], b[1] };
+               int[] c = { a [1], b [1] };
                return c;
      
     }//GEN-LAST:event_jButton1MousePressed
